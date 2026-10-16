@@ -2,7 +2,7 @@ Assignment No. 10 – Group Network Design
 and Implementation Case Study
 
 1) Analyze the given requirements and design an appropriate computer network. Implement
-and simulate the proposed network using Cisco Packet Tracer.
+and simulate gthe proposed network using Cisco Packet Tracer.
 
 
 2) Your solution should demonstrate the application of concepts from the TCP/IP
